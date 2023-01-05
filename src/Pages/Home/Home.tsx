@@ -1,9 +1,7 @@
-import React from 'react';
+
 import Candidate from '../../Componet/Candidate/Candidate';
 
 const Home = () => {
-
-
 	const candidate = [
 		{
 			name: "Nayon Roy",
